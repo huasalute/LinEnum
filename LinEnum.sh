@@ -1,6 +1,6 @@
 #!/bin/bash
 #A script to enumerate local information from a Linux host
-version="version 0.982"
+version="version 0.988"
 #@rebootuser
 
 #help function
